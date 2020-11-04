@@ -4,7 +4,7 @@ ejercicio para pasar a código un diagrama de clases, ejercicio incluye ejemplo 
 
 ## Video desarrollo del ejercicio:
 
-[![De diagrama de clase a código (practica Java)](https://img.youtube.com/vi/yVNWDXsPvKE/0.jpg)](https://www.youtube.com/watch?v=yVNWDXsPvKE)
+[![VIDEO: De diagrama de clase a código (practica Java)](https://img.youtube.com/vi/yVNWDXsPvKE/0.jpg)](https://www.youtube.com/watch?v=yVNWDXsPvKE)
 
 ## Diagrama utilizado
 
